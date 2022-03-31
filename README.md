@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadyr2k
-- 👀 I’m interested in small coding projects (mainly related to games), playing chess and sudoku, and Celeste.
+- 👀 I’m interested in small coding projects (mainly related to games) and abusing video game mechanics
 - 🌱 I’m currently a 2nd year physics major at UCSC
-- 💞️ I’m looking to become better at game dev
+- 💞️ I’m looking to become better at life
 - 📫 idk
 ..
 <!---
